@@ -19,7 +19,6 @@ This GitHub project showcases an LSTM (Long Short-Term Memory) neural network de
 
 ### Repository Structure:
 
-1. model_training.ipynb: Jupyter Notebook containing the code for data preprocessing, model training, and visualization.
-2. prediction_function.py: Python script containing the function for next word prediction and Anvil server integration.
-3. Data_berita.csv: Sample dataset (news articles) used for model training.
-4. mymodel.h5: Pre-trained LSTM model for text prediction.
+1. model_training.ipynb: Jupyter Notebook containing the code for data preprocessing, model training, and Anvil server integration..
+2. Data_berita.csv: Sample dataset (news articles) used for model training.
+3. mymodel.h5: Pre-trained LSTM model for text prediction.
