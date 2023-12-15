@@ -10,9 +10,12 @@ This GitHub project showcases an LSTM (Long Short-Term Memory) neural network de
 
 ### How to Use:
 
-### Setup and Training: 
-Users can clone this repository and train the LSTM model using their own text data by following the provided Jupyter Notebook/Python script.
-Prediction Interface: After training or using the pre-trained model provided in the repository, users can access the Anvil server to interactively predict the next words in a sequence by providing input text.
+### Setup : 
+1. Clone the repository
+2. Put the ipynb file in google colab
+3. Put the mymodel.h5 and Data_berita.csv in the root of your gdrive
+4. Run the ipynb file in google colab
+5. Open the anvil link
 
 ### Repository Structure:
 
